@@ -72,6 +72,6 @@ you write this --> `<hr />`
 < 
 
 
-(![The Sun Face Emoji](https://github.com/user-attachments/assets/ba5602fb-3c70-4d37-a603-2c578cfd7180)
-  )
+![The Sun Face Emoji](https://github.com/user-attachments/assets/ba5602fb-3c70-4d37-a603-2c578cfd7180)
+  
 
