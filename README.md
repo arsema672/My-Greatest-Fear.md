@@ -11,3 +11,5 @@ __My greatest fear in life is being stuck in room  with a group of chimpanzees__
 
 
 ~I am going to crossoff this text~
+
+ 🌇🚶‍♀️👀👨‍🦲🚴👋 ➡️ 🚶‍♀️👋 🏪 🥮
