@@ -1,5 +1,5 @@
 # My-Greatest-Fear.md
-My greatest fear in life is being stuck in room or area with a group of chimpanzees
+__My greatest fear in life is being stuck in room  with a group of chimpanzees__ 
 
 # Heading Number Two
 
